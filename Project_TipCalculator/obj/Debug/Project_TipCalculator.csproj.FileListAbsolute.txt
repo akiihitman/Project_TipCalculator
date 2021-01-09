@@ -1,0 +1,10 @@
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\bin\Debug\Project_TipCalculator.exe.config
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\bin\Debug\Project_TipCalculator.exe
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\bin\Debug\Project_TipCalculator.pdb
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.csprojAssemblyReference.cache
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.Form1.resources
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.Properties.Resources.resources
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.csproj.GenerateResource.cache
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.exe
+C:\Users\akiih\source\repos\Project_TipCalculator\Project_TipCalculator\obj\Debug\Project_TipCalculator.pdb
